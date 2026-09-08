@@ -127,6 +127,7 @@
 | [0357-count-numbers-with-unique-digits](https://github.com/vibhorg62/DSA/tree/master/0357-count-numbers-with-unique-digits) |
 | [1140-stone-game-ii](https://github.com/vibhorg62/DSA/tree/master/1140-stone-game-ii) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/vibhorg62/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3870-count-commas-in-range](https://github.com/vibhorg62/DSA/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vibhorg62/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/vibhorg62/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Minimax
