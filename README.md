@@ -203,6 +203,7 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/vibhorg62/DSA/tree/master/0101-symmetric-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vibhorg62/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vibhorg62/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/vibhorg62/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
@@ -254,6 +255,7 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/vibhorg62/DSA/tree/master/0101-symmetric-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vibhorg62/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vibhorg62/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/vibhorg62/DSA/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/vibhorg62/DSA/tree/master/0543-diameter-of-binary-tree) |
@@ -268,6 +270,7 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/vibhorg62/DSA/tree/master/0101-symmetric-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vibhorg62/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vibhorg62/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/vibhorg62/DSA/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/vibhorg62/DSA/tree/master/0543-diameter-of-binary-tree) |
