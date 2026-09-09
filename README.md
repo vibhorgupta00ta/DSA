@@ -21,6 +21,7 @@
 | [1048-longest-string-chain](https://github.com/vibhorg62/DSA/tree/master/1048-longest-string-chain) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/vibhorg62/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/vibhorg62/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2262-total-appeal-of-a-string](https://github.com/vibhorg62/DSA/tree/master/2262-total-appeal-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vibhorg62/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Dynamic Programming
 |  |
@@ -42,6 +43,7 @@
 | [1048-longest-string-chain](https://github.com/vibhorg62/DSA/tree/master/1048-longest-string-chain) |
 | [1140-stone-game-ii](https://github.com/vibhorg62/DSA/tree/master/1140-stone-game-ii) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/vibhorg62/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [2262-total-appeal-of-a-string](https://github.com/vibhorg62/DSA/tree/master/2262-total-appeal-of-a-string) |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/vibhorg62/DSA/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 ## Manacher
 |  |
@@ -92,6 +94,7 @@
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/vibhorg62/DSA/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [1048-longest-string-chain](https://github.com/vibhorg62/DSA/tree/master/1048-longest-string-chain) |
 | [1386-cinema-seat-allocation](https://github.com/vibhorg62/DSA/tree/master/1386-cinema-seat-allocation) |
+| [2262-total-appeal-of-a-string](https://github.com/vibhorg62/DSA/tree/master/2262-total-appeal-of-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vibhorg62/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vibhorg62/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/vibhorg62/DSA/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
